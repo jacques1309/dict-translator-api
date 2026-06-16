@@ -14,7 +14,6 @@ Niveau 2 :
 Dans tous les cas, tout devra être automatisé et le déploiement devra se faire rien qu'en lançant un seul script (y compris le kubernetes managé)
 
 
-Remarque : On n'a pas vu Kubernetes en cours !!! Soyez indulgent sur la notation svp !!!
 
 
 source : https://nowledgeable.com/student/session/3382ac42-ad98-48c1-aeee-5932328a7bf8/do
