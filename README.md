@@ -129,7 +129,7 @@ Un appel à la racine doit renvoyer :
 ```bash
 docker compose stop          # arrête les conteneurs
 docker compose down     # arrête et detruit tous les containers
-docker compose down - v  # arrête, detruit tous les containers et supprime les volumes !
+docker compose down -v  # arrête, detruit tous les containers et supprime les volumes !
 ```
 
 ---
