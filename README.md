@@ -138,11 +138,11 @@ docker compose down -v  # arrête, detruit tous les containers et supprime les v
 
 Toute la documentation interactive est disponible sur **http://localhost:5000/docs** (Swagger UI), qui permet de tester chaque endpoint directement depuis le navigateur.
 
-### Étape 1 — Le dictionnaire Morse
+### Étape 1 - Le dictionnaire Morse
 
-Le dictionnaire `morse` est déjà chargé au démarrage. Tu peux donc passer directement à la traduction. Pour créer un autre dictionnaire, envoie une table de correspondances `key` → `valeur` au format vu en introduction.
+Le dictionnaire `morse` est déjà chargé au démarrage. On peut donc passer directement à la traduction. Pour créer un autre dictionnaire, envoie une table de correspondances `key` -> `valeur` au format vu en introduction.
 
-### Étape 2 — Traduire un mot
+### Étape 2 - Traduire un mot
 
 **Endpoint :** `POST /trad/`
 
